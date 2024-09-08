@@ -1,0 +1,9 @@
+/* exter1.css */
+.header {
+    background-color: #4CAF50; /* Green background color */
+    padding: 20px; /* Padding around the text */
+    text-align: center; /* Center-align the text */
+    color: white; /* White text color */
+    font-size: 24px; /* Font size for the header text */
+  }
+  

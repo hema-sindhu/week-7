@@ -1,0 +1,30 @@
+/* exter3.css */
+.nav-menu {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 10px 20px; /* Padding around the menu */
+    border-bottom: 1px solid #e0e0e0; /* Border below the menu */
+  }
+  
+  .nav-links {
+    list-style: none; /* Remove bullet points from the list */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Display list items in a row */
+    justify-content: center; /* Center the items horizontally */
+  }
+  
+  .nav-links li {
+    margin: 0 15px; /* Spacing between menu items */
+  }
+  
+  .nav-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Default link color */
+    font-weight: bold; /* Make link text bold */
+    font-size: 16px; /* Font size for the links */
+  }
+  
+  .nav-links a:hover {
+    color: #0056b3; /* Color when link is hovered */
+  }
+  

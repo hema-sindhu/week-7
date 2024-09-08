@@ -1,0 +1,11 @@
+.header {
+    background-color: #4CAF50; /* Green background color */
+    padding: 20px;             /* Adds padding around the header */
+    text-align: center;        /* Centers the text */
+    color: white;              /* Makes the text white */
+  }
+  
+  h1 {
+    margin: 0; /* Removes the default margin of the h1 element */
+  }
+  

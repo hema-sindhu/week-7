@@ -1,0 +1,38 @@
+/* exter2.css */
+.footer {
+    background-color: #333; /* Dark background color */
+    padding: 20px; /* Padding around the footer */
+    text-align: center; /* Center-align the text */
+    color: white; /* White text color */
+  }
+  
+  .footer-content {
+    max-width: 800px; /* Set a max-width for the content */
+    margin: 0 auto; /* Center the content */
+  }
+  
+  .footer-links {
+    list-style: none; /* Remove bullet points from the list */
+    padding: 0; /* Remove default padding */
+    margin: 10px 0; /* Margin around the list */
+  }
+  
+  .footer-links li {
+    display: inline; /* Display list items inline */
+    margin: 0 10px; /* Margin between list items */
+  }
+  
+  .footer-links a {
+    color: white; /* Default link color */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .footer-links a:hover {
+    color: #4CAF50; /* Color when link is hovered */
+  }
+  
+  .footer-note {
+    margin-top: 10px; /* Margin above the note */
+    font-size: 14px; /* Font size for the note */
+  }
+  
